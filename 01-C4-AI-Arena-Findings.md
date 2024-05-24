@@ -705,6 +705,7 @@ The problem begins from the fact that a user can `RankedBattle::unstakeNRN` from
 
 `StakeAtRisk::amoutLost` storage mapping keeps track of the total NRN tokens that an address has lost. The `StakeAtRisk::reclaimNRN` function gets called when a user has won a battle AND his NFT fighter has `stakeAtRisk`. Through this function, a user reclaims some of his NRN tokens that are at risk:
 
+
 ```javascript
     /// @notice Mapping of address to the amount of NRNs that have been swept.
     mapping(address => uint256) public amountLost;
