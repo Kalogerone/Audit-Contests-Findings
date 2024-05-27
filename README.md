@@ -6,7 +6,7 @@ A repository containing my valid findings in public audit contests.
 
 | Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
 |---|---|---|---|---|---|---|
-|  | 1 | 0 | 2 | 0 |  | $16,000 |
+| 10 | 1 | 0 | 2 | 0 | $410.95 | $16,000 |
 
 ## C4 - Panoptic Apr 1, 2024 - Apr 22, 2024 
 
