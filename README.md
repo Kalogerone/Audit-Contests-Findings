@@ -1,6 +1,12 @@
 # Audit-Contests-Findings
 A repository containing my valid findings in public audit contests.
 
+## Cantina - Yolo Games May 27, 2024 - Jun 08, 2024
+
+| Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
+|---|---|---|---|---|---|---|
+| 7 | 1 | 0 | 0 | 0 | $660.93 | $27,500 |
+
 ## Sherlock - Midas May 28, 2024 - May 31, 2024
 
 | Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
