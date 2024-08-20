@@ -1,8 +1,13 @@
 # Audit-Contests-Findings
 A repository containing my valid findings in public audit contests.
 
+## Sherlock - Midas May 28, 2024 - May 31, 2024
+
+| Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
+|---|---|---|---|---|---|---|
+| 5 | 0 | 0 | 1 | 0 | $69.66 | $8,000 |
+
 ## Sherlock - TITLES Publishing Protocol Apr 22, 2024 - Apr 26, 2024
-(waiting for payout results)
 
 | Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
 |---|---|---|---|---|---|---|
