@@ -1,6 +1,12 @@
 # Audit-Contests-Findings
 A repository containing my valid findings in public audit contests.
 
+## C4 - Size Jun 10, 2024 - Jul 02, 2024
+
+| Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
+|---|---|---|---|---|---|---|
+| 48 | 2 | 0 | 0 | 0 | $59.09 | $168,000 |
+
 ## Cantina - Yolo Games May 27, 2024 - Jun 08, 2024
 
 | Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
