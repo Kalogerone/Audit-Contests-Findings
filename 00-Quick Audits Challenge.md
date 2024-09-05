@@ -1,6 +1,6 @@
 # The Concept
 
-Inbetween my normal audits, when there is a lot of free time, I thought to take a quick look at other ongoing audits and see if I can find anything on my 1st or 2nd pass of the codebase. I do this as a small challenge to make me pay more attention on my 1st and 2nd pass of the code. The only rule is maximum 1 hour per codebase.
+Inbetween my normal audits, when there is a lot of free time, I thought to take a quick look at other ongoing audits and see if I can find anything on my 1st or 2nd pass of the codebase. I do this as a small challenge to make me pay more attention on my 1st and 2nd passes of the code.
 
 Why?
 
