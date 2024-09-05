@@ -7,7 +7,7 @@ Why?
 - Improve my initial look at a codebase.
 - Slightly boost my leaderboard rank on different audit platforms.
 - Slightly boost my valid findings ratio on different audit platforms.
-- Potentially make a small amount of extra money, although most bugs found on the 1st and 2nd pass will be heavily duplicated.
+- Potentially make a small amount of extra money, although most bugs found on the 1st and 2nd passes will be heavily duplicated.
 - Get a decent idea of codebases so after I can read the reports and understand them.
 - Expose myself to different coding techniques and ideas.
 
