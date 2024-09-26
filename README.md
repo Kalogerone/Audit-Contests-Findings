@@ -1,6 +1,8 @@
 # Audit-Contests-Findings
 A repository containing my valid findings in public audit contests.
 
+Additional results in the [00-Quick Audits Challenge.md](https://github.com/Kalogerone/Audit-Contests-Findings/blob/main/00-Quick%20Audits%20Challenge.md) file.
+
 ## C4 - TraitForge Jul 29, 2024 - Aug 06, 2024
 
 | Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
