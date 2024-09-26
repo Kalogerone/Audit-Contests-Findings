@@ -1,6 +1,12 @@
 # Audit-Contests-Findings
 A repository containing my valid findings in public audit contests.
 
+## C4 - TraitForge Jul 29, 2024 - Aug 06, 2024
+
+| Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
+|---|---|---|---|---|---|---|
+| 18 | 2 | 0 | 7 | 0 | $233.10 | $22,300 |
+
 ## C4 - Size Jun 10, 2024 - Jul 02, 2024
 
 | Position | Highs | Unique Hs | Mediums | Unique Ms | Payout | H/M Contest Rewards |
