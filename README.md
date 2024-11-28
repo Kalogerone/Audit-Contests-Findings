@@ -3,6 +3,18 @@ A repository containing my valid findings in public audit contests.
 
 Additional results in the [00-Quick Audits Challenge.md](https://github.com/Kalogerone/Audit-Contests-Findings/blob/main/00-Quick%20Audits%20Challenge.md) file.
 
+## Private Audit - Nov 11, 2024 - Nov 22, 2024
+
+Private audit with [Talfao](https://x.com/talfao1) for his new smart contract security company [Codespect](https://x.com/CODESPECT)
+
+Report still private. Senction will get updated soon.
+
+## Codehawks - Stakelink Sep 30, 2024 - Oct 17, 2024
+
+| Position | Highs | Unique Hs | Mediums | Unique Ms |
+|---|---|---|---|---|
+| 4 | 1 | 0 | 2 | 0 |
+
 ## Cantina - ZetaChain Aug 19, 2024 - Sep 4, 2024
 
 | Position | Highs | Unique Hs | Mediums | Unique Ms |
