@@ -5,7 +5,7 @@ Additional results in the [00-Quick Audits Challenge.md](https://github.com/Kalo
 
 ## Private Audit - Nov 11, 2024 - Nov 22, 2024
 
-Private audit with [Talfao](https://x.com/talfao1) for his new smart contract security company [Codespect](https://x.com/CODESPECT)
+Private audit with [Talfao](https://x.com/talfao1) for his new smart contract security company [Codespect](https://x.com/CODESPECT).
 
 Report still private. Senction will get updated soon.
 
