@@ -1,6 +1,6 @@
 # Audit-Contests-Findings
 A repository containing my valid findings in public audit contests.
-(Stopped uploading the reports, results below are up to date)
+Stopped uploading the reports, results below are up to date.
 
 ## Codehawks - Alchemix Dec 16, 2024 - Dec 23, 2024
 
