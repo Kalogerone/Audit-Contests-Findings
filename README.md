@@ -1,7 +1,6 @@
 # Audit-Contests-Findings
 A repository containing my valid findings in public audit contests.
-
-Additional results in the [00-Quick Audits Challenge.md](https://github.com/Kalogerone/Audit-Contests-Findings/blob/main/00-Quick%20Audits%20Challenge.md) file.
+(Stopped uploading the reports, results below are up to date)
 
 ## Codehawks - Alchemix Dec 16, 2024 - Dec 23, 2024
 
