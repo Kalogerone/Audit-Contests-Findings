@@ -2,6 +2,13 @@
 A repository containing my valid findings in public audit contests.
 Stopped uploading the reports, results below are up to date.
 
+## Codehawks - Benqi Jan 13, 2025 - Jan 27, 2025
+
+(Unique Low with no M/Hs)
+| Position | Highs | Unique Hs | Mediums | Unique Ms |
+|---|---|---|---|---|
+| 1 | 0 | 0 | 0 | 0 |
+
 ## Codehawks - Alchemix Dec 16, 2024 - Dec 23, 2024
 
 | Position | Highs | Unique Hs | Mediums | Unique Ms |
