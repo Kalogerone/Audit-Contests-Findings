@@ -1,4 +1,4 @@
-# Audit-Contests-Findings
+# Audit-Contests
 A repository containing my valid findings in public audit contests.
 Stopped uploading the reports, results below are up to date.
 
