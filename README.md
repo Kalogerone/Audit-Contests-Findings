@@ -4,14 +4,14 @@ Stopped uploading the reports, results below are up to date.
 
 ## Codehawks - Curve Mar 10, 2025 - Mar 17, 2025
 
-(Only Lows with no M/Hs)
+(Only Lows with no H/Ms)
 | Position | Highs | Unique Hs | Mediums | Unique Ms |
 |---|---|---|---|---|
 | 5 | 0 | 0 | 0 | 0 |
 
 ## Codehawks - Benqi Jan 13, 2025 - Jan 27, 2025
 
-(Unique Low with no M/Hs)
+(Unique Low with no H/Ms)
 | Position | Highs | Unique Hs | Mediums | Unique Ms |
 |---|---|---|---|---|
 | 1 | 0 | 0 | 0 | 0 |
